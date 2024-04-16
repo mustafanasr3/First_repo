@@ -1,2 +1,2 @@
-# First_repo
-HTML And CSS Only
+# First_Responsive Design
+HTML & CSS Only
